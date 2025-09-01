@@ -1,6 +1,6 @@
 # Hi, I'm Oleksandr Rura👋
 
-### 🎓 3rd year student at CHDTU  
+### 🎓 4rd year student at CHDTU  
 💻 Computer Engineering  
 🔌 Computer Systems & Networks
 

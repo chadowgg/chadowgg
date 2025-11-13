@@ -22,7 +22,7 @@
 #### 🗄️ Databases
 - PostgreSQL, MySQL
 
-#### 🌐 Networking
+#### 🌐 Networking (Learning)
 - TCP/IP, HTTP, DNS, DHCP, Network Security, Routing & Switching
   
 #### ⚙️ Frameworks (Currently Learning)
